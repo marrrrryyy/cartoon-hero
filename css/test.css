@@ -1,0 +1,17 @@
+body{
+    background-color: lavender;
+}
+h1{
+    font-size: 40;
+    color:#B295FF;
+}
+h2{
+    color: #95ADFF;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+span{
+    font-size: 50;
+    color: #FF95E2;
+}
